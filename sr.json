@@ -1,0 +1,13 @@
+{
+  "form": { "$oid": "6023fe0ed06368540f226a10" },
+  "name": "ESTADO CIVIL  ",
+  "type": "estadoCivil",
+  "updated_at": { "$date": "2020-07-31T17:20:14.194Z" },
+  "created_at": { "$date": "2020-07-31T17:20:14.194Z" },
+  "status": true,
+  "created": { "$date": "2020-08-03T14:41:23.044Z" },
+  "active": true,
+  "__v": 0
+}
+
+{"name":"DATOS DE CLASIFICACIÓN","code":"007","description":"DATOS DE CLASIFICACIÓN","peso":"14","bloque":"1","updated_at":{"$date":"2021-02-05T17:20:14.191Z"},"created_at":{"$date":"2021-02-05T17:20:14.191Z"},"status":true,"__v":0}
